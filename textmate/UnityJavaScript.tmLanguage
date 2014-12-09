@@ -5,13 +5,15 @@
 	<key>comment</key>
 	<string>Unity API Calls: version 2.1</string>
 	<key>fileTypes</key>
-	<array/>
+	<array>
+		<string>js</string>
+	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*\*|\{\s*$|\s*(case)</string>
 	<key>foldingStopMarker</key>
 	<string>\*\*/|^\s*\}|^\s*(break)</string>
 	<key>name</key>
-	<string>Unity (JavaScript)</string>
+	<string>unityjavascript</string>
 	<key>patterns</key>
 	<array>
 		<dict>
